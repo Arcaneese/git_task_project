@@ -5,3 +5,6 @@ print ("Git is Awesome!")
 name = input("What's your name?")
 print("hello! ", name)
 
+#Asking the user for their favourite colour.
+colour = input("What is your favourite colour?")
+print("your favourite colour is", colour)
